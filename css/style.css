@@ -1,0 +1,11 @@
+/**********
+** HEADER **/
+
+/* Top header */
+#top-header {
+    height: 3rem;
+    background-color: black;
+    line-height: 3rem;
+}
+
+/* Debug */
