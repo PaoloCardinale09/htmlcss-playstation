@@ -9,7 +9,7 @@
 }
 
 /* JUMBOTRON */
-#jumbotron {
+.jumbo-pics {
     height: 70vh;
     background-image: url(./../img/jumbo-bg.png);
     background-repeat: no-repeat;
@@ -17,11 +17,32 @@
     background-size: cover;
 }
 
+
+/* IT TAKES TWO */
+#it-takes-two {
+    height: 70vh;
+    background-image: url(.././img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* PLAYSTATION PLUS */
+#playstation-plus {
+    background-color: blanchedalmond;
+}
+
+/* PLAYSTATION NOW */
+#playstation-now {
+    background-color: darkblue;
+}
+
 /* Debug */
 
 .box {
     height: 3rem;
     background-color: aquamarine;
+    text-align: center;
 
 }
 
@@ -35,4 +56,8 @@
 
 .box.three {
     background-color: red;
+}
+
+.debug-border {
+    border: 1px dashed black;
 }
