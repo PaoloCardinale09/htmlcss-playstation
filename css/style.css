@@ -10,8 +10,28 @@
 
 /* JUMBOTRON */
 #jumbotron {
-    height: 40rem;
-    background-image: url(./img/jumbo-bg.png);
+    height: 70vh;
+    background-image: url(./../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 /* Debug */
+
+.box {
+    height: 3rem;
+
+}
+
+.box.one {
+    background-color: gray;
+}
+
+.box.two {
+    background-color: blue;
+}
+
+.box.three {
+    background-color: red;
+}
