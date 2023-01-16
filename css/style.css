@@ -8,4 +8,10 @@
     line-height: 3rem;
 }
 
+/* JUMBOTRON */
+#jumbotron {
+    height: 40rem;
+    background-image: url(./img/jumbo-bg.png);
+}
+
 /* Debug */
