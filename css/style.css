@@ -16,6 +16,11 @@ ul {
     width: 60%;
 }
 
+.special-btn {
+    background-color: #d9dadc;
+    border: currentColor;
+}
+
 /**********
 ** HEADER **/
 
@@ -64,7 +69,7 @@ ul {
 
 /* PLAYSTATION PLUS */
 #playstation-plus {
-    background-color: blanchedalmond;
+    background-color: #bebcbb;
 }
 
 /* PLAYSTATION NOW */
