@@ -12,6 +12,10 @@ ul {
     width: fit-content;
 }
 
+.w-60 {
+    width: 60%;
+}
+
 /**********
 ** HEADER **/
 
@@ -44,13 +48,18 @@ ul {
 }
 
 
-/* IT TAKES TWO */
-#it-takes-two {
+/* FIRST OFFER */
+#first-offer {
     height: 70vh;
     background-image: url(.././img/it-takes-two-hero-banner-desktop.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+/* NEW RELEASE */
+#new-release {
+    background-color: #1f1f1f;
 }
 
 /* PLAYSTATION PLUS */
@@ -102,7 +111,7 @@ footer ul {
 
 @media screen and (max-width: 991px) {
     .jumbo-pics picture img {
-        width: 50% !important;
+        width: 60% !important;
     }
 }
 
