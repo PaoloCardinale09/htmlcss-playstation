@@ -64,7 +64,7 @@ button.more-info:hover {
 
 /* JUMBOTRON */
 .jumbo-pics {
-    min-height: 70vh;
+    height: 70vh;
     background-image: url(./../img/jumbo-bg.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -103,7 +103,7 @@ button.more-info:hover {
 
 /* FIRST OFFER */
 #first-offer {
-    min-height: 70vh;
+    height: 70vh;
     background-image: url(.././img/it-takes-two-hero-banner-desktop.jpg);
     background-repeat: no-repeat;
     background-position: center;
